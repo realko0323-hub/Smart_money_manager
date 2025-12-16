@@ -20,7 +20,7 @@
 4. 지출 그래프(파이 차트) 카테고리별로 총 지출의 몇 퍼세트를 차지하는 지를 파티차트로 보여준다
    <img width="1198" height="1172" alt="image" src="https://github.com/user-attachments/assets/f522122e-a730-42ee-adad-795ac8d39556" />
 5. 회귀 분석을 통한 월말 총 지출 예상: 날짜 별로 지출을 묶어서 선형회귀 분석을 진행. 월말 최종 지출을 예상하는 그래프를 보여줌
-   <img width="1503" height="995" alt="image" src="https://github.com/user-attachments/assets/4cd3cb9d-49f1-4532-b386-b5d36dfa73a5" />
+   <img width="1501" height="996" alt="image" src="https://github.com/user-attachments/assets/1435d68d-02bb-4089-850f-f25bd3304d48" />
 6. 엑셀 리포트: 자신이 입력한 값들을 엑셀파일로 만들어준다.
    <img width="416" height="282" alt="image" src="https://github.com/user-attachments/assets/fe6b9bad-ccec-469a-8058-f8d8a1092eb9" />
 7. 데이터 초기화: 월초가 되면 지금까지 저장해 두었던 값들을 초기화 해야하므로 추가하였다.

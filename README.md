@@ -1,5 +1,18 @@
 # Smart_money_manager
+
 대학생들의 늘어나는 돈 낭비를 줄이기 위해 만든 스마트 가계부
+
+구성
+패키지 구조 (Directory Structure):
+
+main.py: 프로그램의 진입점(Entry Point), 사용자 입력을 처리하는 메인 루프.
+
+money_manager/models.py: 클래스 설계 (Class Design). Transaction(데이터)과 AccountBook(기능) 객체 정의.
+
+money_manager/analysis.py: 데이터 분석 및 시각화 담당 로직 분리.
+
+money_manager/utils.py: 파일 저장/불러오기 등 유틸리티 함수 분리.
+
 기능은 다음과 같다.
 1. 지출 및 수익 입력 기능( 날짜 카테고리 금액 메모) 의 형식으로 입력을 받는다.
 2. 전체 내역 보기.
